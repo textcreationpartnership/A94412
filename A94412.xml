@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Excellency the Lord Generall Cromwell and to the rest of the Right Honourable the Councel of State, patriots and defenders of the common-laws and liberties of the Common-wealth of England. The humble petition of many thousands of prisoners for debt, in severall prisons of a[l]lthe counties of England and Wales; remonstrating the illegality of the arrests, out-lawries and imprisonments for debt, being the saddest grievance, and of the most considerable concernment to all the free people of this nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94412</idno>
+            <idno type="STC">Wing T1353</idno>
+            <idno type="STC">Thomason 669.f.17[28]</idno>
+            <idno type="STC">ESTC R211583</idno>
+            <idno type="EEBO-CITATION">99870299</idno>
+            <idno type="PROQUEST">99870299</idno>
+            <idno type="VID">163278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163278)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Excellency the Lord Generall Cromwell and to the rest of the Right Honourable the Councel of State, patriots and defenders of the common-laws and liberties of the Common-wealth of England. The humble petition of many thousands of prisoners for debt, in severall prisons of a[l]lthe counties of England and Wales; remonstrating the illegality of the arrests, out-lawries and imprisonments for debt, being the saddest grievance, and of the most considerable concernment to all the free people of this nation.</title>
+                  <author>Smith, William, Sir, 1616 or 17-1696.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>At end: Signed by Sir William Smith K. in the behalf of himself and the prisoners aforesaid.</note>
+                  <note>Annotation on Thomason copy: "July 1. 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163278:1" rendition="simple:additions"/>
+            <head>To his Excellency the Lord Generall
+CROMWELL
+And to the reſt of the Right Honourable the COUNCEL of STATE, PATRIOTS and DEFENDERS of
+the Common-Laws and Liberties of the Common-wealth of ENGLAND.</head>
+            <head type="sub">The humble Petition of many thouſands of Priſoners for Debt, in ſeverall Priſons of a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l the Counties of England and Wales, re<g ref="char:EOLhyphen"/>monſtrating
+the Illegallity of Arreſts, Out-lawries and Impriſonments for Debt, being the ſaddeſt Grievance, and of the moſt
+conſiderable concernment to all the free People of this Nation:</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat by the Common Law of England the body could not be arreſted,<note place="margin">Mag. Cart. 29.</note> impriſoned, or outlawed for debt or dammage<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, either before or after judg<g ref="char:EOLhyphen"/>ment,
+nor the Lands taken in Execution, but the goods and chattels and the profits of the Debtors lands by two writs ordained for that purpoſe
+and ſtill in force, <hi>viz.</hi> A <hi>Fieri facias</hi> of the goods and chattels only; and a <hi>Levari facies</hi> of the Corn and preſent profits that grew upon the lands.</p>
+            <p>And the Reaſon of the Law,<note place="margin">
+                  <hi>Cooks Inſtit.</hi> 2, part fo. 394.</note> that the body in caſe of debt or dammage ſhould not be detained in Priſon was that the Perſon ſhould alwaies be
+at liberty, not only to follow his own affairs and buſineſſe, but alſo to ſerve the <hi>Common-wealth</hi> when need ſhould require; nor the poſſeſſion of the
+Lands in that caſe taken away,<note place="margin">Sir. <hi>Will Herb.</hi> Caſe <hi>Cook</hi> lib. 3.</note> for that would hinder the following of tillage, which is ſo beneficiall to the <hi>Common-wealth,</hi> which Law continu<g ref="char:EOLhyphen"/>ed
+inviolate for the ſpace of 250. years after the <hi>Norman conqueſt,</hi> untill the <hi>Statute</hi> of <hi>Weſtminſter,</hi> the 2. Chap. 11. which firſt gave a <hi>Capias</hi> and Proceſs of <hi>Out<g ref="char:EOLhyphen"/>lawry</hi>
+againſt fugitives and fraudulent Accomptants only; And after the ſame <hi>Statute</hi> of <hi>Weſtminſter,</hi> the 2. Chap. 18. gave an <hi>Elegit</hi> of the moiety of Lands,
+which was the firſt <hi>Act</hi> that made Lands ſubject to execution upon a <hi>Recognizance</hi> or <hi>Judgment.</hi>
+               <note place="margin">
+                  <hi>Weſt.</hi> 2. cap. 11. <hi>Weſt.</hi> 2. cap. 18. 25. <hi>Ed</hi> 3<g ref="char:punc">▪</g> cap. 17.</note>
+            </p>
+            <p>That afterwards by the <hi>Statute</hi> of 25. <hi>Ed.</hi> 3. chap. 17. It was accorded that ſuch proceſs ſhould be made in a Writ of Debt and detinue of chattels, as was
+then uſed in a writ of accompt, which was indeed a ſhort but a very ſharp and c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uel law; yet it is to be obſerved that ſuch puniſhment was not given in debt as in
+accompt by that Law.</p>
+            <p>That thoſe Laws were afterwards repealed by the generall <hi>Statute</hi> of 42.<note place="margin">42. Ed. 3. cap. 1 <hi>Cooks</hi> Inſtit. 2. part. 23. 85 42. of <hi>Ed</hi> 
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Ed.</hi> 3. which in judgment of law declared all former or ſubſequent <hi>Statutes</hi> (made
+againſt the great <hi>Charter</hi>) to be voyd and holden for none.</p>
+            <p>That notwithſtanding this Golden Law which reſtored the Peoples Liberty to the full again, yet that ſhort intervall of time betwixt the ſaid 25. and the 42.
+of the ſame King <hi>Ed.</hi> 3. (being not above 18. years,) had ſo bewitched their minds, and captivated the judgments of ſuch officers and perſons as received profit
+by impriſoned or bayled debtors, as Sheriffs, Bayliffs, Serjeants at Mace, Attorneys, Sollicitors and other Officers and Attendants in Citties, and Towns Corpo<g ref="char:EOLhyphen"/>rate
+in ſeverall Offices (which were newly created and erected in thoſe times) with the gain that proceeded by the Fees of Writs, Bayles, Outlawries, and other
+numerous ways extorted from the perſons arreſted, outlawed, and impriſoned or bayled for debt<g ref="char:punc">▪</g> that never ſince could that evill Spirit be caſt out of the genera<g ref="char:EOLhyphen"/>tion
+of ſuch Craftsmen and Perſons, (otherwiſe eminently learned in the Law,) that for lucre ſake, after the repeal of thoſe aforeſaid cruel <hi>Iron-Laws,</hi> the evill
+and unlawfull practiſe of the ſame unto this day continued againſt all Perſons, but the Peers of the Land.</p>
+            <p>And either by miſconſtruction or inadvertancy of the true and genuine ſenſe of the Common-Law it ſelfe; And of the ſaid generall <hi>Statute</hi>
+of 42. <hi>Ed.</hi> 3. and contrary to thirty <hi>Acts</hi> of <hi>Parliament</hi> ſince made in affirmance of the <hi>Great Charter</hi> of the Liberties of the people of <hi>England,</hi> the ſame
+evill uſe of Arreſts, Outlawries and Impriſonmeut for debt, and other civill cauſes, and the extent of lands by <hi>Elegit</hi> continues to this very day, to the utter ruine
+of the perſons and eſtates of the free-born people of England, <hi>Quo jure, Quavae injurae;</hi> We humbly ſubmit to your <hi>Excellencies</hi> and your <hi>Councells</hi> better judgment.</p>
+            <p>For redreſſe whereof,<note place="margin">13. Ed 1. 25. Ed. 3.</note> and in reſpect that all ſubſequent <hi>Statutes</hi> whatſoever made to enthrall the perſon by arreſts and Outlary, have relation unto the ſaid
+repealed and voyd <hi>Acts</hi> of the 13th. of <hi>Ed.</hi> the firſt, and of the 25. <hi>Ed.</hi> 3. and they muſt by all reaſon be as voyd as thſe <hi>Acts</hi> to which they are related; <hi>And</hi> for
+that there is no poſitive <hi>Statute-Law</hi> in force at this day for the continuing of the <hi>Capias</hi> and <hi>Exigent</hi> againſt the Perſons in debt, and meerly Civill cauſes, ſince
+the Repeal of the ſaid Laws,<note place="margin">42. Ed. 3.</note> by force of the 42th. year of the ſame <hi>Ed.</hi> 3.</p>
+            <p>May it pleaſe your <hi>Excellency,</hi> and the reſt of your <hi>Honourable Councell</hi> conſidering the Illegallity of arreſts, outlaries and extents, as well for the common good
+of all the Free-born People of this Nation. As for the poor Priſoners cauſe; that the ancient liberty of the perſon may be reſtored, and vindicated by your <hi>Ju<g ref="char:EOLhyphen"/>ſtice</hi>
+from the <hi>Tyranny</hi> of thoſe Laws and Times which impoſed the ſaid yoak of <hi>Impriſonment</hi> and <hi>Outlary</hi> upon the People in civill cauſes.</p>
+            <p>And that the antient and laudable formes for recovering of juſt debts may be by <hi>Originall Writs</hi> out of the <hi>Chancery,</hi> and for not-appearing a <hi>Diſtreſſe infinite;</hi>
+which courſe is more beneficiall far to the Common-wealth in general, and more remedial to the <hi>Plaintiffe</hi> in particular then either the Bill of <hi>Middleſex, Lati<g ref="char:EOLhyphen"/>tat,
+Clauſum fregie,</hi> or <hi>Capias <g ref="char:V">Ʋ</g>t-legatum</hi> can be; and alſo that all judiciall writs may be executed upon the <hi>Defendants</hi> lands and goods, by the <hi>Levari facias</hi> and
+<hi>Fieri facias,</hi> and not by Extent upon the <hi>Elegit,</hi> or <hi>Capias ad ſatisficiendum</hi> upon the body; as the modern practiſe is in deſtruction of the <hi>Defendant,</hi> all debts and
+dammages recovered, being moſt properly, and by Intendement of the Common Law, to be levied upon the profits of the lands and goods and chattels only, and
+not upon the Perſon.</p>
+            <p>And that all Priſoners for debt whatſoever may be diſcharged of their impriſonment, and the <hi>Creditors</hi> left to reſort to the <hi>Debtors</hi> lands and goods for ſatiſ<g ref="char:EOLhyphen"/>fection
+of thier juſt debts, by judiciall, and no new <hi>Arbitrary</hi> proceedings (now in attempt) againſt the Free People of this Nation by malevolent <hi>Creditors,</hi> and
+oppreſſing <hi>Vſurers,</hi> in <hi>Oppoſito</hi> of the ancient way, and true legall formes of <hi>Juſtice.</hi>
+            </p>
+            <p>So will the Common laws revive and flouriſh, the multiplicity of vexatious Suits be abated, Tyllage and Trading advanced, the eſtates of all perſons preſerved
+to their Families and Poſterity; malice and envy taken away, oppreſſion and wrong repreſſed, peace and love eſtabliſhed in this Nation, (which is manifeſtly
+intended, and aimed at by your <hi>Excellencies</hi> late Declaration) And your <hi>Excellencies</hi> good name for ſo Pious and admirable a <hi>Piece</hi> of <hi>Juſtice</hi> be recommended
+with <hi>Honor,</hi> to the preſent and future free-born People of <hi>England.</hi>
+            </p>
+            <p>The <hi>Petitioners</hi> further humbly beſeeching your <hi>Excellency</hi> and <hi>Honourable Councell,</hi> that they may be admitted by themſelves or Agents (in caſe of oppo<g ref="char:EOLhyphen"/>ſition
+or obſtruction) to exhibit additionalls in defence and maintenance of their deſires.</p>
+            <p>And that your <hi>Excellency</hi> and <hi>Councell,</hi> will be graciouſly pleaſed in the mean time (untill the ſaid Errors and evill cuſtomes now in ure, can be reverſed and
+reformed by the new Repreſentative) to permit all Priſoners in Execution in the Fleet, or elſe where, to go abroad by <hi>Baſton,</hi> to follow their buſineſs,
+(as untill the <hi>Statute</hi> of the firſt of <hi>Rich.</hi> 2. was accuſtomed, conſtantly after the <hi>Stat.</hi> of 25. <hi>Ed.</hi> 3.) Or otherwiſe to have their Writs of <hi>Habeas Cor<g ref="char:EOLhyphen"/>pus</hi>
+gtanted them <hi>Gratis,</hi>
+               <note place="margin">1. Rich. 2, 25. <hi>Ed.</hi> 3.</note> out of any the four Courts of <hi>Westminſter,</hi> without contradiction of their <hi>Creditors</hi> or any of them.</p>
+            <closer>And as in all Duty bound, your <hi>Petitioners</hi> ſhall ever pray, &amp;c.
+<signed>Signed by Sir <hi>William Smith</hi> K.
+in the behalf of himſelf, and
+the Priſoners aforeſaid.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
